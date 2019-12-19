@@ -1,0 +1,44 @@
+url : DFS15PHPTP3
+
+Bon et gros TP :)
+
+Commande pour les droits : sudo chmod -R 777 nomDuDossier --> /var/www/html en distant ET /data en local
+Commande pour lister les dossiers/fichiers : scandir
+
+Vous devrez créer une application qui aura comme but :
+
+Pages à fournir :
+
+- Une page qui affichera tous les FICHIERS existants dans le dossier "templates"
+- Un lien pour créer une page dans votre navbar qui amène sur une page contenant un formulaire, permettant lui-même de créer une page, comme par exemple :
+		- Un input pour un titre, un input pour du content, on envoie le formulaire et ça nous crée un fichier dans notre dossier "templates", qui sera aussi affiché dans
+       la page d'accueil.
+
+  Une page permettant de se connecter/s'inscrire. Ces informations seront à enregistrer en sessions ou en cookies. Vous devrez donc réutiliser ces données quelque part,
+  comme bon vous semble.
+
+  Vous DEVREZ utiliser du templating
+
+  Petit bonus :
+
+  Vous pouvez ajouter un bouton ou autre à côté de chacun de vos fichiers sur votre index.php.
+  Quand on clique dessus, le fichier est supprimé.
+
+  Vous pouvez ajouter également un autre bouton permettant d'ouvrir ce fichier sur une page, affichant son
+  contenu ainsi que son titre, et de pouvoir modifier ce qu'il y a à l'intérieur, avant de le sauvegarder.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
